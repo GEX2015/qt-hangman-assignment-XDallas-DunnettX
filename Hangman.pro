@@ -20,3 +20,9 @@ HEADERS  += mainwindow.h \
     hangman.h
 
 FORMS    += mainwindow.ui
+
+RESOURCES += \
+    hangmanimages.qrc
+
+DISTFILES += \
+    hangmanWords
